@@ -12,7 +12,7 @@
     "url": "git+https://github.com/dusanradojcic/dusanradojcic.github.io.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Dusan Radojcic <dukir00@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dusanradojcic/dusanradojcic.github.io/issues"
@@ -24,5 +24,6 @@
   },
   "dependencies": {
     "lodash": "^4.17.15"
-  }
+  },
+  "main": "webpack.config.js"
 }

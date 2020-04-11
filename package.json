@@ -1,0 +1,28 @@
+{
+  "name": "dusanradojcic.github.io",
+  "version": "1.0.0",
+  "description": "To-do list",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dusanradojcic/dusanradojcic.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dusanradojcic/dusanradojcic.github.io/issues"
+  },
+  "homepage": "https://github.com/dusanradojcic/dusanradojcic.github.io#readme",
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
